@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/homeworks-composition-decomposition/static/css/main.204ee04f.chunk.css",
+    "main.js": "/homeworks-composition-decomposition/static/js/main.155d18c5.chunk.js",
+    "main.js.map": "/homeworks-composition-decomposition/static/js/main.155d18c5.chunk.js.map",
+    "runtime-main.js": "/homeworks-composition-decomposition/static/js/runtime-main.d9bb07bf.js",
+    "runtime-main.js.map": "/homeworks-composition-decomposition/static/js/runtime-main.d9bb07bf.js.map",
+    "static/js/2.3d5d514d.chunk.js": "/homeworks-composition-decomposition/static/js/2.3d5d514d.chunk.js",
+    "static/js/2.3d5d514d.chunk.js.map": "/homeworks-composition-decomposition/static/js/2.3d5d514d.chunk.js.map",
+    "static/js/3.753800f9.chunk.js": "/homeworks-composition-decomposition/static/js/3.753800f9.chunk.js",
+    "static/js/3.753800f9.chunk.js.map": "/homeworks-composition-decomposition/static/js/3.753800f9.chunk.js.map",
+    "index.html": "/homeworks-composition-decomposition/index.html",
+    "static/css/main.204ee04f.chunk.css.map": "/homeworks-composition-decomposition/static/css/main.204ee04f.chunk.css.map",
+    "static/js/2.3d5d514d.chunk.js.LICENSE.txt": "/homeworks-composition-decomposition/static/js/2.3d5d514d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9bb07bf.js",
+    "static/js/2.3d5d514d.chunk.js",
+    "static/css/main.204ee04f.chunk.css",
+    "static/js/main.155d18c5.chunk.js"
+  ]
+}
