@@ -1,23 +1,20 @@
-import logo from './logo.svg';
 import './App.css';
+import AnonsBlock from './components/AnonsBlock';
+import SearchBlock from './components/SearchBlock';
+import WatchTrailerBlock from './components/WatchTrailerBlock';
+import WidgetsBlock from './components/WidgetsBlock';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <AnonsBlock />
+      <SearchBlock />
+      <WatchTrailerBlock
+        title="Форсаж"
+        url="#"
+        img="https://via.placeholder.com/468x60?text=Forsage+banner"
+      />
+      <WidgetsBlock />
     </div>
   );
 }
